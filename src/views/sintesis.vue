@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 A continuación, se describe el tema principal del componente formativo Plan de intervención, esencial para preservar y mejorar la calidad de vida de las comunidades. Este enfoque integral busca identificar y abordar los riesgos ambientales que afectan la salud pública, como la contaminación del aire, el agua y los suelos, así como los desastres naturales. El plan incluye la creación de políticas, regulaciones y programas de educación y concientización para promover prácticas sostenibles y seguras. Además, se enfoca en el monitoreo constante y la evaluación de resultados para ajustar estrategias según las necesidades cambiantes, garantizando un ambiente saludable para las generaciones presentes y futuras.
 
     .row.justify-content-center
       .col-lg-10.mb-5
