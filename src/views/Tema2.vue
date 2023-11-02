@@ -144,7 +144,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_2_2 2.2 Normatividad
     .row.justify-content-center.align-items-center
-      .col-lg-4.col-md-8.col-12.mb-3 
+      .col-lg-4.col-md-10.col-12.mb-3 
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema2/15.png' alt='Imagen decorativa')
       .col-lg-8.col-12.mb-3
@@ -152,7 +152,76 @@
         .cajon.p-4.mb-3(style="background-color: #E7FFD1")
           p La salud pública se enfoca en fortalecer la capacidad institucional, mejorar la planificación y gestión, desarrollar el recurso humano en salud y llevar a cabo investigaciones continuas para mejorar las condiciones de la sociedad.
     .row 
-      p(data-aos="fade-left") A lo largo de su evolución, la salud pública en Colombia ha estado sujeta a diversas normativas tanto a nivel nacional como internacional, como se muestra a continuación : 
+      p(data-aos="fade-left") A lo largo de su evolución, la salud pública en Colombia ha estado sujeta a diversas normativas tanto a nivel nacional como internacional, como se muestra a continuación:
+    .row.justify-content-center.align-items-center
+      .col-lg-8.col-md-10.col-12.mb-3
+        LineaTiempoD.color-primario
+          .row.justify-content-center(numero="1" titulo="1978")
+            .col-lg-12.mb-4.mb-md-0
+              p.text-small La Conferencia Internacional de Promoción de la Salud Alma-Ata, celebrada en 1978, emitió un llamado urgente a gobiernos, profesionales de la salud, organismos de desarrollo y la comunidad global para proteger y promover la salud de todas las poblaciones en el mundo. En dicha conferencia, se afirmó que el bienestar físico, mental y social es un derecho humano fundamental que debe ser garantizado y promovido. Esta declaración resaltó la importancia de abordar la salud desde una perspectiva integral que incluye no solo la ausencia de enfermedad, sino también el bienestar emocional y social de las personas.
+            .col-lg-10.col-12
+              figure
+                img(src='@/assets/curso/temas/tema2/16.png', alt='Imagen decorativa')
+          .row.justify-content-center(numero="2" titulo="1988")
+            .col-lg-12.mb-4.mb-md-0
+              p.text-small La Segunda Conferencia Internacional de Promoción de Salud, que tuvo lugar en Australia en 1988, destacó que el principal objetivo de una política de promoción de la salud es la creación de entornos propicios que permitan a las personas llevar una vida saludable. Esto implica proporcionar a los ciudadanos la responsabilidad de tomar decisiones saludables y facilitar su capacidad para hacerlo. En lugar de simplemente enfocarse en cambiar el comportamiento individual, se reconoció la importancia de modificar los entornos en los que las personas viven, trabajan y juegan para que las opciones saludables sean más accesibles y atractivas.
+            .col-lg-10.col-12
+              figure
+                img(src='@/assets/curso/temas/tema2/17.png', alt='Imagen decorativa')
+          .row.justify-content-center(numero="3" titulo="1992")
+            .col-lg-12.mb-4.mb-md-0
+              p.text-small La Conferencia Mundial sobre el Medio Ambiente y Desarrollo Sostenible que tuvo lugar en Río de Janeiro en 1992 fue un evento importante organizado por las Naciones Unidas. En esta conferencia se adoptó un programa de acción global llamado "Agenda 21" que estableció principios y directrices para promover el desarrollo sostenible a nivel internacional. La Agenda 21 abordó una amplia gama de temas relacionados con el medio ambiente y el desarrollo, y su objetivo principal era equilibrar el crecimiento económico con la conservación ambiental y el bienestar social a largo plazo. Este evento fue un hito en el reconocimiento global de la importancia de la sostenibilidad y la necesidad de tomar medidas para abordar los desafíos ambientales y sociales.
+            .col-lg-10.col-12
+              figure
+                img(src='@/assets/curso/temas/tema2/18.png', alt='Imagen decorativa')
+          .row.justify-content-center(numero="4" titulo="1993")
+            .col-lg-12.mb-4.mb-md-0
+              p.text-small La Carta del Caribe para la Promoción de la Salud, elaborada en 1993, es un documento clave en el campo de la salud pública. Esta carta se centró en abordar los desafíos de la promoción de la salud en la región del Caribe y propuso un enfoque específico para abordar los problemas de salud en el contexto de factores económicos, sociales y ambientales. La Carta del Caribe estableció una serie de principios y estrategias para mejorar la salud de las poblaciones en la región, reconociendo la interconexión entre la salud, la economía y el medio ambiente. También enfatizó la importancia de la participación de la comunidad y la promoción de estilos de vida saludables como componentes clave de la promoción de la salud.
+            .col-lg-10.col-12
+              figure
+                img(src='@/assets/curso/temas/tema2/19.png', alt='Imagen decorativa')
+
+      .col-lg-4.col-md-8.col-10.mb-3
+        figure
+          img(src='@/assets/curso/temas/tema2/20.svg', alt='Imagen decorativa')
+    .row.mt-5 
+      p(data-aos="fade-left") Así mismo en Colombia se han emitido diferentes normativas, las cuales hacen parte de la salud pública y algunas de ellas se mencionan a continuación:
+
+    .row
+      .cajon.p-4.mb-3(style="background-color: #E7FFD1")
+        .row.justify-content-center.align-items-center
+          .col-lg-5.col-md-8.col-10.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema2/21.svg', alt='Imagen decorativa')
+          .col-lg-7.col-12.mb-3
+            ul.lista-ul
+              li 
+                i.fas.fa-check(style="color: #63C500")
+                | Ley 100 de 1993 en el cual se hace la regulación del Sistema General de Seguridad Social Integral.
+              li 
+                i.fas.fa-check(style="color: #63C500")
+                | Ley 352 de 1997 en la cual se hace una reestructuración al Sistema de Salud. 
+              li 
+                i.fas.fa-check(style="color: #63C500")
+                | Ley 378 de 1997, convenio sobre los servicios de salud en el trabajo dentro del cual se establecen las medidas de protección de los trabajadores contra las enfermedades, sean o no profesionales, y contra los accidentes del trabajo.
+              li 
+                i.fas.fa-check(style="color: #63C500")
+                | Ley 776 del 2002 en la cual se establecen las normas sobre la organización, administración y prestaciones del Sistema General de Riesgos Profesionales.
+              li 
+                i.fas.fa-check(style="color: #63C500")
+                | Decreto 1294 de 1994 en el cual se establecen las normativas para la autorización de las sociedades sin ánimo de lucro que pueden asumir los riesgos derivados de enfermedad profesional y accidente de trabajo.
+              li 
+                i.fas.fa-check(style="color: #63C500")
+                | Decreto 1295 de 1994 mediante el cual se organiza y administra el sistema general de riesgos profesionales.
+              li 
+                i.fas.fa-check(style="color: #63C500")
+                | Decreto 806 de 1998 mediante el cual se reglamenta la afiliación al Régimen de Seguridad Social en Salud y la prestación de los beneficios del servicio público esencial de Seguridad Social en Salud y como servicio de interés general, en todo el territorio nacional.
+              li 
+                i.fas.fa-check(style="color: #63C500")
+                | Resolución 8430 de 1993 en la cual se establecen normas científicas, técnicas y administrativas para la investigación en temáticas de salud.
+              li 
+                i.fas.fa-check(style="color: #63C500")
+                | Resolución 734 del año 2007 en la cual se adelantan las investigaciones de incidentes y accidentes de trabajo.
 
 
 </template>
