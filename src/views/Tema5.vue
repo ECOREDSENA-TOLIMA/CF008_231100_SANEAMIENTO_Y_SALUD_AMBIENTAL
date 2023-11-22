@@ -122,11 +122,11 @@
     .row.justify-content-center.mt-5
       .col-lg-6.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Figura 3.
+          h5 Figura 5.
           span #[i Acciones de prevención]
         .row.justify-content-center 
           figure(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema5/3.svg' alt='En la figura 3 se muestran los 4 conceptos a tener en cuenta en la metodología FODA, fortalezas, oportunidades, debilidades y amanezas.')
+            img(src='@/assets/curso/temas/tema5/3.svg' alt='En la figura 5 se muestran los 4 conceptos a tener en cuenta en la metodología FODA, fortalezas, oportunidades, debilidades y amanezas.')
     .row.mt-5 
       p(data-aos="face-left") Teniendo en cuenta que:
 

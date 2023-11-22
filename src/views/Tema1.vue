@@ -186,7 +186,7 @@
       h2#t_1_2 1.2 Grupos poblacionales
     .row.justify-content-center.align-items-center
       .col-lg-8.col-12.mb-3
-        p(data-aos="fade-left") Estos grupos representan la diversidad de comunidades que habitan en distintas áreas y comparten características comunes. En Colombia, esto incluye a las etnias, que agrupan a personas de la misma raza y cultura. Estos grupos poblacionales desempeñan un papel fundamental en la transformación y reconstrucción de identidades en las ciudades y territorios, promoviendo la dignidad y el diálogo horizontal entre sus miembros. Estas comunidades se caracterizan por una serie de rasgos distintivos que las identifican y las hacen partícipes activas en diversos procesos, como se muestra a continuación.
+        p(data-aos="fade-left") Estos grupos representan la diversidad de comunidades que habitan en distintas áreas y comparten características comunes. En Colombia, esto incluye a las etnias, que agrupan a personas de la misma raza y cultura. Estos grupos poblacionales desempeñan un papel fundamental en la transformación y reconstrucción de identidades en las ciudades y territorios, promoviendo la dignidad y el diálogo horizontal entre sus miembros. Estas comunidades se caracterizan por una serie de rasgos distintivos que las identifican y las hacen partícipes activas en diversos procesos, como se muestra a continuación:
       .col-lg-4.col-md-10.col-10.mb-3
         figure
           img(src='@/assets/curso/temas/tema1/24.png', alt='Imagen decorativa')

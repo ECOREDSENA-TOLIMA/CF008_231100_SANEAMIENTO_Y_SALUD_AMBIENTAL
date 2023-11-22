@@ -172,7 +172,7 @@ export default {
     {
       tema: 'Herramientas de planificación. ',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Técnicas o herramientas de mejoramiento final. [Video]. YouTube. ',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Técnicas o herramientas de mejoramiento continuo. [Video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Powx5406v2I',
     },
@@ -181,7 +181,7 @@ export default {
     {
       termino: 'Cronograma',
       significado:
-        'una de las herramientas esenciales para la planificación ya que permite elaborar calendarios de trabajo con actividades específicas.',
+        'una de las herramientas esenciales para la planificación, ya que permite elaborar calendarios de trabajo con actividades específicas.',
     },
     {
       termino: 'Entornos saludables',
@@ -199,14 +199,14 @@ export default {
         'medida de los posibles perjuicios para la salud de una población concreta derivados de la ocurrencia de una situación peligrosa.',
     },
     {
-      termino: 'Prevención:',
+      termino: 'Prevención',
       significado:
-        'tiene como finalidad actuar específicamente sobre los factores de riesgo que estén presentes en un individuo, comunidad o en el medio ambiente los cuales son determinantes para la aparición de enfermedades. ',
+        'tiene como finalidad actuar específicamente sobre los factores de riesgo que estén presentes en un individuo, comunidad o en el medio ambiente, los cuales son determinantes para la aparición de enfermedades. ',
     },
     {
       termino: 'Promoción',
       significado:
-        'todas las actividades, intervenciones y guías de atención las cuales sean de carácter informativo y educativo, las cuales tienden a reforzar estilos de vida que son saludables y a modificar aquellos que no lo sean.',
+        'todas las actividades, intervenciones y guías de atención, las cuales sean de carácter informativo y educativo, las cuales tienden a reforzar estilos de vida que son saludables y a modificar aquellos que no lo sean.',
     },
   ],
   referencias: [
@@ -309,7 +309,7 @@ export default {
         },
         {
           nombre: 'Viviana Esperanza Herrera Quiñonez',
-          cargo: 'Metodólog',
+          cargo: 'Metodóloga',
           centro: 'Regional Tolima - Centro de Comercio y Servicio',
         },
       ],
@@ -339,7 +339,7 @@ export default {
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Produccióon audiovisual',
+          cargo: 'Producción audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {

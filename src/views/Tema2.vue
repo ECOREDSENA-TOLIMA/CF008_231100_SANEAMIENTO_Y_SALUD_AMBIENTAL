@@ -26,7 +26,7 @@
           img(src='@/assets/curso/temas/tema2/1.png', alt='Imagen decorativa')
     .row.mt-5
       .cajon.p-4.mb-3(style="background-color: #D5FFF5")
-        p(data-aos="fade-left") Los riesgos biológicos son los más importantes dentro del sector sanitario, pues no solo en la frecuencia de los casos, sino en la gravedad de las consecuencias, de no ser controlados de manera correcta constituye problemas serios para todo el personal.
+        p(data-aos="fade-left") Los riesgos biológicos son los más importantes dentro del sector sanitario, pues no solo en la frecuencia de los casos, sino en la gravedad de las consecuencias, de no ser controlados de manera correcta, constituye problemas serios para todo el personal.
     .row 
       p(data-aos="fade-left") Si bien dentro del sector sanitario no todo el personal tiene la posibilidad de manipular agentes biológicos, es necesario que se considere la posible exposición a estos agentes que pueden estar contaminados. A continuación, se aborda la clasificación de los agentes biológicos:
 
@@ -44,13 +44,13 @@
           .col-lg-4.col-md-6.col-12.mb-3
             figure
               img(src='@/assets/curso/temas/tema2/3.png', alt='Imagen decorativa')
-        .row.justify-content-center(titulo="Grupo 1")
+        .row.justify-content-center(titulo="Grupo 3")
           .col-lg-8.col-md-12.mb-4.md-0.mb-3
             p Representan una amenaza significativa para la salud pública, ya que pueden causar enfermedades graves en las personas. Esto plantea un riesgo tanto para los trabajadores de la salud, que están en contacto directo con pacientes infectados, como para la comunidad en general, ya que existe el peligro de que estas enfermedades se propaguen.
           .col-lg-4.col-md-6.col-12.mb-3
             figure
               img(src='@/assets/curso/temas/tema2/4.png', alt='Imagen decorativa')
-        .row.justify-content-center(titulo="Grupo 1")
+        .row.justify-content-center(titulo="Grupo 4")
           .col-lg-8.col-md-12.mb-4.md-0.mb-3
             p Son todos aquellos agentes que causan enfermedades graves al ser humano y el riesgo de propagación es muy alto.
           .col-lg-4.col-md-6.col-12.mb-3
@@ -185,7 +185,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/20.svg', alt='Imagen decorativa')
     .row.mt-5 
-      p(data-aos="fade-left") Así mismo en Colombia se han emitido diferentes normativas, las cuales hacen parte de la salud pública y algunas de ellas se mencionan a continuación:
+      p(data-aos="fade-left") Así mismo, en Colombia se han emitido diferentes normativas, las cuales hacen parte de la salud pública y algunas de ellas se mencionan a continuación:
 
     .row
       .cajon.p-4.mb-3(style="background-color: #E7FFD1")

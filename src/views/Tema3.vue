@@ -11,7 +11,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/1.svg', alt='Imagen decorativa')
       .col-lg-8.col-12.mb-3
-        p(data-aos="fade-left") Se refiere a una teoría psicológica que considera a los seres humanos como procesadores de información, similar a una computadora. En este enfoque, se almacenan y organizan contenidos temáticos en la mente, y se procesan datos para convertirlos en información relevante. En este contexto, el procesamiento de datos implica la organización y transformación de la información a través de un sistema cognitivo preestablecido. Esta teoría se asemeja al funcionamiento de una computadora, donde los datos se convierten en información procesada. El sistema de procesamiento de datos se puede representar gráficamente para comprender mejor este concepto, como se observa a continuación.
+        p(data-aos="fade-left") Se refiere a una teoría psicológica que considera a los seres humanos como procesadores de información, similar a una computadora. En este enfoque, se almacenan y organizan contenidos temáticos en la mente, y se procesan datos para convertirlos en información relevante. En este contexto, el procesamiento de datos implica la organización y transformación de la información a través de un sistema cognitivo preestablecido. Esta teoría se asemeja al funcionamiento de una computadora, donde los datos se convierten en información procesada. El sistema de procesamiento de datos se puede representar gráficamente para comprender mejor este concepto, como se observa a continuación:
 
     .row.justify-content-center.mt-5
       .col-lg-6.col-12
@@ -21,7 +21,7 @@
         .row.justify-content-center 
           figure(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema3/2.svg' alt='En la figura 2 se muestra el paso a paso del procesamiento de información: Datos e información útil teniendo en cuenta el control de calidad.')
-    .row
+    .row.mt-5
       p(data-aos="fade-left") Los documentos públicos son una categoría específica de documentos con características legales particulares. Estos documentos son emitidos por funcionarios que tienen la facultad de dar fe pública y que actúan dentro de sus competencias legales. Para que un documento sea considerado público, debe cumplir con ciertas formalidades legales.
 
     .row.justify-content-center.align-items-center 
@@ -45,7 +45,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/4.svg', alt='Imagen decorativa')
           .col-lg-6.col-12.mb-3
-            p Los formatos de inspección son útiles, para asegurarse de que ningún aspecto importante se pasé por alto durante las inspecciones de seguridad en los lugares de trabajo. Al seguir un formato predefinido con una serie de preguntas, los inspectores pueden abordar sistemáticamente todas las áreas de preocupación y evaluarlas de manera coherente. Esto ayuda a establecer criterios de seguridad estandarizados que pueden ser utilizados por todas las personas en una organización para garantizar un entorno de trabajo seguro.
+            p Los formatos de inspección son útiles, para asegurarse de que ningún aspecto importante se pase por alto durante las inspecciones de seguridad en los lugares de trabajo. Al seguir un formato predefinido con una serie de preguntas, los inspectores pueden abordar sistemáticamente todas las áreas de preocupación y evaluarlas de manera coherente. Esto ayuda a establecer criterios de seguridad estandarizados que pueden ser utilizados por todas las personas en una organización para garantizar un entorno de trabajo seguro.
         .row.justify-content-center.align-items-center.col-ipad(titulo="2")
           .col-lg-2.col-md-6.col-8.mb-3
             figure
